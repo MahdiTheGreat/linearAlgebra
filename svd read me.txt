@@ -1,0 +1,4 @@
+for svdCompression,you have to assign value for Kvalues in line 26 and also choose the ppm file by writing the name
+in lines 14 and 35,in order to choose which picture to compress with and with what quality
+
+
